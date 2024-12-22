@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **advanced AI techniques, cybersecurity frameworks, and sustainable development applications through AI.**  
 - 💞️ I’m looking to collaborate on **open-source AI projects, cybersecurity research, and innovative solutions for Sustainable Development Goals (SDGs).**  
 - 📫 How to reach me:  
-  - LinkedIn: (https://www.linkedin.com/in/aimankem/)(#)  
+  - LinkedIn: (https://www.linkedin.com/in/aimankem/)
   - Email: [aimansoc@gmail.com](#)  
   - GitHub Discussions: @AIMANSOC  
 
