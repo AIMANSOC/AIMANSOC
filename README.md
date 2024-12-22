@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 #### 📜 License ? [![GitHub license](https://img.shields.io/github/license/AIMANSOC/AIMANSOC.svg?going-to=PhD-Md)](https://github.com/AIMANSOC/AIMANSOC/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/AIMANSOC), 2015-24.
-
+![AIMANSOC's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIMANSOC&show_icons=true&theme=radical)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/AIMANSOC/AIMANSOC/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/AIMANSOC/ama&leaving=house)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/AIMANSOC/AIMANSOC/README.md?pixel)](https://GitHub.com/AIMANSOC/AIMANSOC/)
