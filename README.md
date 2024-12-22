@@ -1,4 +1,7 @@
-# 👋 Hi, I’m @AIMANSOC
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm AIMANSOC" title="👋 Hi there! I'm AIMANSOC"/>
+<div align="justify">
+  
+  # 👋 Hi, I’m @AIMANSOC
 
 - 👀 I’m interested in **Artificial Intelligence, Cybersecurity, and Digital Skills Development.**  
 - 🌱 I’m currently learning **advanced AI techniques, cybersecurity frameworks, and sustainable development applications through AI.**  
