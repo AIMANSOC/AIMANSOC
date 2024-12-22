@@ -12,6 +12,7 @@
 - ⚡ Fun fact: **I blend AI research with cybersecurity to drive impactful solutions while continuously pursuing certifications like RCCE, CompTIA Security+, and Google Digital Skills.**  
 
 ![](https://komarev.com/ghpvc/?username=AIMANSOC)
+[![GitHub followers](https://img.shields.io/github/followers/AIMANSOC.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/AIMANSOC?tab=followers)
 <!---
 AIMANSOC/AIMANSOC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
