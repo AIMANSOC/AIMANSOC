@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm AIMANSOC" title="👋 Hi there! I'm AIMANSOC"/>
+
 <div align="justify">
   
   # 👋 Hi, I’m @AIMANSOC
