@@ -32,5 +32,5 @@ You can click the Preview link to take a look at your changes.
 [![AIMANSOC's github trophy](https://github-profile-trophy.vercel.app/?username=AIMANSOC&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![AIMANSOC's github stats](https://github-readme-stats.vercel.app/api?username=AIMANSOC&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIMANSOC&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![AIMANSOC's GitHub stats](https://github-readme-stats.vercel.app/api?username=AIMANSOC&show_icons=true&theme=radical)
+
 
